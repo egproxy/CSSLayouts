@@ -1,0 +1,9 @@
+{
+  "private": "true",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-sass": "0.9.x",
+    "grunt-contrib-cssmin": "0.12.x"
+  }
+}

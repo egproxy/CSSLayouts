@@ -1,0 +1,14 @@
+$footerHeight: 70px;
+
+* { margin: 0; }
+html,body { height: 100%; }
+
+.wrapper {
+  min-height: 500px + $footerHeight; 
+  height: 100%;
+  margin: 0 auto -1 * $footerHeight;
+}
+
+.footer {
+  height: $footerHeight;
+}
